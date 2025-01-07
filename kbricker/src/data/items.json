@@ -1,0 +1,28 @@
+{
+    "items": [
+        {
+            "id": 1,
+            "title": "Project 1",
+            "img": "The_One_Ring_on_a_map_of_Middle-earth.webp",
+            "text": "info about project 1"
+        },
+        {
+            "id": 2,
+            "title": "Aragorn Sword",
+            "img": "1309-the-anduril-sword-lord-of-the-rings-sword--scaled-600x400.jpg",
+            "text": "info about project 2"
+        },
+        {
+            "id": 3,
+            "title": "Project 3",
+            "img": "The_One_Ring_on_a_map_of_Middle-earth.webp",
+            "text": "info about project 3"
+        },
+        {
+            "id": 4,
+            "title": "Project 4",
+            "img": "The_One_Ring_on_a_map_of_Middle-earth.webp",
+            "text": "info about project 4"
+        }
+    ]
+}
